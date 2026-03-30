@@ -1,0 +1,7 @@
+{
+  "prompt": "A single powerful image: a human heart made of cracked dry earth, split into two halves — one side lush green forest, the other side dry desert with deep cracks, subtle gradient transition showing temperature rise over time, no text, no labels, no graphs, no charts, cinematic lighting, ultra detailed, emotional, magazine cover style, photorealistic, high contrast --no infographic, no data labels, no axes",
+  "model": "DALL·E 3",
+  "dataset_name": "Global Surface Temperature Anomalies",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "Global temperatures have risen sharply, transforming habitable environments into increasingly barren landscapes"
+}
